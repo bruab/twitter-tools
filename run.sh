@@ -1,3 +1,3 @@
 #!/bin/bash
 
-source .env && python3 find-mutuals.py
+source .env && node find-mutuals.js

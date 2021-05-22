@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "dependencies": {
+    "twitter-api-v2": "^1.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.27.0"
+  }
+}
